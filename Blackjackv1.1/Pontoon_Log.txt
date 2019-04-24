@@ -1,0 +1,21 @@
+Game started at:Tue Mar 26 12:59:38 2019
+Game finished at:Tue Mar 26 13:02:30 2019
+Rounds: 15
+Won:2
+Lost: 13
+--
+Round1:Won
+Round2:Lost
+Round3:Lost
+Round4:Lost
+Round5:Lost
+Round6:Lost
+Round7:Lost
+Round8:Lost
+Round9:Lost
+Round10:Lost
+Round11:Lost
+Round12:Lost
+Round13:Lost
+Round14:Won
+Round15:Lost
